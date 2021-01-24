@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: lull
+  type: file
+  config:
+    maxSize: 64
+  label: Lull
 - type: datetime
   name: date
   label: date
