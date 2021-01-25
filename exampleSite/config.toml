@@ -61,7 +61,7 @@ footer_content = "The advice provided is general in nature. It does not constitu
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-logo = "images/logo.png"
+logo = "images/Paisa IQ.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
