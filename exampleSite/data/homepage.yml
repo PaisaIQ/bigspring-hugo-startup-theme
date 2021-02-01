@@ -1,13 +1,11 @@
 ---
 banner:
-  title: Sitting idle on your money? <br>  Focus on investment and leave the research
-    to us
+  title: 'Start Investing with us <br>  '
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: 'Don’t let the market dynamics consume the better part of your day. Leave
+    the research to us '
   button:
-    enable: true
+    enable: false
     label: Contact With Us
     link: contact
 feature:
