@@ -11,3 +11,5 @@ fields:
 - type: text
   name: description
   label: meta description
+pages:
+- exampleSite/content/pricing/i-am-pro.md
