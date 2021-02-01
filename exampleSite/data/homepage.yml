@@ -84,7 +84,7 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: true
+  enable: false
   title: Leave the research <br> to US
   image: images/screenshot.svg
 call_to_action:
