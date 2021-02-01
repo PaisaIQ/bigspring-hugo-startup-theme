@@ -10,24 +10,24 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Some of our recent research.
   feature_item:
-  - name: Clean Code
+  - name: Reliance
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+  - name: HCL
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
+  - name: Trent
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
+  - name: TATA motors
     icon: ti-credit-card
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
+  - name: SBI
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+  - name: 'Cera '
     icon: ti-cloud-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
