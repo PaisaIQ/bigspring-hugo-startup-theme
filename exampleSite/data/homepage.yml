@@ -33,7 +33,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: 'Investing Theme 1: Extending longevity and quality of human health'
+  - title: 'Investment Theme 1: Extending longevity and quality of human health'
     images:
     - images/service-1.png
     - images/service-2.png
