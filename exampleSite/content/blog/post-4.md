@@ -21,4 +21,4 @@ lull: "/images/paisa-iq.png"
 
 **(d) Connect the drivers of value to a valuation:** Create an intrinsic valuation model that connects the input to an end value in business.
 
-**Keep the feedback loop open:** Listen to people who know the business better than you do and use suggestions to fine-tune the narrative.
+**(e) Keep the feedback loop open:** Listen to people who know the business better than you do and use suggestions to fine-tune the narrative.
