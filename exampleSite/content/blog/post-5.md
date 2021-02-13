@@ -1,172 +1,35 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
-date: 2020-04-18T10:07:21+06:00
-# post image
-image: "images/blog/post-5.jpg"
-# post type (regular/featured)
-type: "regular"
-# meta description
-description: "This is meta description"
-# post draft
-draft: false
+title: FAQs about the National Bad Bank
+date: 2020-04-18T10:07:21.000+06:00
+image: "/images/paisa-iq.png"
+type: regular
+description: This is meta description
+
 ---
+**Q1. What is the proposed National Bad Bank?**
 
+The Union Budget has proposed an asset reconstruction company (ARC) that will take over stressed debt from banks.
 
-#### Heading example
+**Q2. How will this work?**
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+A new ARC will be formed which will buy Non Performing Assets (NPAs) from banks. This ARC will act like a holding company to an asset management company (AMC) which will try to recover money by selling NPAs to funds that buy distressed assets.
 
-# Heading 1 
-<br>
+**Q3. How does it help banks?**
 
-## Heading 2 
+The transfer of NPAs from their books to a professionally managed ARC will help the banks in getting a better value for the clean part of their loan book. This will increase their ability to raise growth capital. A second benefit would be that the management of banks will now be freed up to give more focus on growth. The biggest beneficiaries of this would be the Public Sector Banks.
 
-<br>
+**Q4. Who will provide capital for this?**
 
-### Heading 3 
+Banks will provide capital for it while the government would provide guarantee.
 
-<br>
+**Q5. How much money will be required for this?**
 
-#### Heading 4 
+It is estimated that the new ARC will require at least INR 15000 crore.
 
-<br>
+**Q6. How much bad loans will it be acquiring?**
 
-##### Heading 5 
+The total NPA as of September 2020 were INR 7 lakh crore which is 7.5% of total bank loans. Out of this around INR 3 lakh crore is expected to be acquired by the bad bank.
 
-<br>
+**Q7. Does it solve the NPA problem?**
 
-###### Heading 6
-
-
-<hr>
-
-##### Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/blog/post-6.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+There is skepticism that this would be more of an accounting escape for banks and might not build up trust with investors.
