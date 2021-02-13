@@ -47,14 +47,12 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: 'Investment Theme 2: Energy Transformation Companies'
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: There is a clear shift in world consciousness towards renewable sources
+      of energy. The energy companies that will thrive tomorrow are the ones that
+      are assisting mankind in making this shift.
     button:
       enable: true
       label: Check it out
