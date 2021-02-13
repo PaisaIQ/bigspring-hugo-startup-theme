@@ -1,7 +1,7 @@
 ---
 title: Damodaran’s five steps to value any business
 date: 2021-02-13T00:00:00+05:30
-image: "/images/service-3.png"
+image: "/images/paisa-iq.png"
 type: regular
 description: This is meta description
 lull: "/images/paisa-iq.png"
