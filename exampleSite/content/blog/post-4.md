@@ -5,7 +5,6 @@ image: "/images/service-3.png"
 type: regular
 description: This is meta description
 lull: "/images/banner-art.svg"
-draft: true
 
 ---
 · Aswath Damodaran is a professor of finance at New York University’s Stern School of Business. He is more popularly known as ‘Dean of valuation’ on Wall Street for his simple yet comprehensive valuation framework.
