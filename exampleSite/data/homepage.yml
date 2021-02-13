@@ -57,14 +57,13 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: 'Investment Theme 3: Next Generation Internet Companies'
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Increasing digital penetration has had massive implications for trade
+      and commerce across the world. Companies that are focused towards facilitating
+      commerce online, manufacturing hardware, and connecting individuals will be
+      the biggest beneficiaries in times to come.
     button:
       enable: true
       label: Check it out
