@@ -50,7 +50,7 @@ name = "Contact"
 weight = 3
 [[menu.main]]
 URL = "faq"
-name = "FAQ"
+name = "About Us"
 weight = 4
 [params]
 author = "Paisa IQ"
