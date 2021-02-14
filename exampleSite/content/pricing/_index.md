@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Subscription Plans
 subtitle: 'Stock search '
 description: This is meta description
 basic:
