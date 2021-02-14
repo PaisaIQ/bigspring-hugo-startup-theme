@@ -68,14 +68,13 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: 'Investment Theme 4: Changing consumption patterns'
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Empowerment of working women, nuclear families and a shift towards individuality
+      are some of the visible changes in India lifestyle that are expected to further
+      accelerate in the near future. These changes will have a great impact on consumption
+      patterns and thus present a great wealth creation opportunity.
     button:
       enable: true
       label: Check it out
