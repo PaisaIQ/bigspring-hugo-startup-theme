@@ -1,6 +1,6 @@
 ---
 title: Subscription Plans
-subtitle: 'Stock search '
+subtitle: ''
 description: This is meta description
 basic:
   name: Basic Plan
